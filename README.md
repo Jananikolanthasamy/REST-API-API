@@ -3,7 +3,7 @@ COMPANY : CODE IT SOLUTION NAME : JANANI K INTERN ID : CTIS4243 DOMAIN : JAVA PR
 output task 2:
 
 <img width="723" height="572" alt="Image" src="https://github.com/user-attachments/assets/00beaccc-3e90-4f13-9d53-1d3bb06c0ced" />REST-API-CLIENT
-COMPANY : CODE IT SOLUTION NAME : Yashwanth v INTERN ID : CTIS4241 DOMAIN : JAVA PROGRAMMING DURATION : 4 WEEKS\
+COMPANY : CODE IT SOLUTION NAME : JANANI K INTERN ID : CTIS4243 DOMAIN : JAVA PROGRAMMING DURATION : 4 WEEKS\
 output task 2:
 
 <img width="723" height="572" alt="Image" src="https://github.com/user-attachments/assets/00beaccc-3e90-4f13-9d53-1d3bb06c0ced" />
